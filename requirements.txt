@@ -1,0 +1,16 @@
+# Versions are not pinned because no verified run exists yet.
+# After a successful run, record exact versions with: pip freeze
+numpy
+pandas
+scipy
+statsmodels
+scikit-learn
+xgboost
+matplotlib>=3.5
+seaborn
+plotly
+openpyxl
+jupyterlab
+
+# Optional: download the dataset outside Kaggle
+# kagglehub
