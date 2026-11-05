@@ -6,7 +6,7 @@ An analysis of 4,899 shipment records that asks where a logistics network loses 
 
 | Resource | Link |
 |---|---|
-| Kaggle notebook | [add link] |
+| Kaggle notebook | [Supply Chain Logistics Analysis](https://www.kaggle.com/code/hazaimihamdani/supply-chain-logistics-lead-time-bottleneck) |
 | Tableau dashboard | [add link when published] |
 | Presentation (PowerPoint) | [reports/Capstone_Portfolio_Presentation.pptx](reports/Capstone_Portfolio_Presentation.pptx) |
 
