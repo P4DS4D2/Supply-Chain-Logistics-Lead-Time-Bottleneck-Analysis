@@ -8,7 +8,7 @@ An analysis of 4,899 shipment records that asks where a logistics network loses 
 |---|---|
 | Kaggle notebook | [Supply Chain Logistics Analysis](https://www.kaggle.com/code/hazaimihamdani/supply-chain-logistics-lead-time-bottleneck) |
 | Tableau dashboard | [add link when published] |
-| Presentation (PowerPoint) | [reports/Capstone_Portfolio_Presentation.pptx](reports/Capstone_Portfolio_Presentation.pptx) |
+| Presentation (PowerPoint) | [Capstone_Portfolio_Presentation](https://github.com/P4DS4D2/Supply-Chain-Logistics-Lead-Time-Bottleneck-Analysis/blob/main/Capstone_Portfolio_Presentation.pdf) |
 
 ## Business problem
 
