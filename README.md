@@ -102,7 +102,7 @@ supply-chain-logistics-analysis/
 │   └── README.md          # how to obtain the dataset (raw data not committed)
 ├── images/                # charts used in this README (4 PNG files)
 └── reports/
-    └── Capstone_Portfolio_Presentation.pptx
+    └── Capstone_Portfolio_Presentation.pdf
 ```
 
 ## How to reproduce
