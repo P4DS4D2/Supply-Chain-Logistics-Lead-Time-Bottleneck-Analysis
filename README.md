@@ -73,7 +73,7 @@ Each is a pilot to validate, not a proven saving. No cost analysis was performed
 
 ## Visualisations
 
-![Bar charts of shipments and average lead time by origin port: PORT04 handles 4,754 of 4,899 shipments](images/01_port_concentration.png)
+![Bar charts of shipments and average lead time by origin port: PORT04 handles 4,754 of 4,899 shipments](https://github.com/P4DS4D2/Supply-Chain-Logistics-Lead-Time-Bottleneck-Analysis/blob/main/01_port_concentration.png)
 *PORT04 carried 4,754 of 4,899 shipments (97%). PORT05 has a single record, so its 5.00-day average is not interpretable.*
 
 ![Bar charts of shipments by carrier and average transit processing time by plant](images/02_carrier_plant_drivers.png)
