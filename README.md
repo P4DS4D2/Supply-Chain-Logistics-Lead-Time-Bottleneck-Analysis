@@ -76,13 +76,13 @@ Each is a pilot to validate, not a proven saving. No cost analysis was performed
 ![Bar charts of shipments and average lead time by origin port: PORT04 handles 4,754 of 4,899 shipments](https://github.com/P4DS4D2/Supply-Chain-Logistics-Lead-Time-Bottleneck-Analysis/blob/main/01_port_concentration.png)
 *PORT04 carried 4,754 of 4,899 shipments (97%). PORT05 has a single record, so its 5.00-day average is not interpretable.*
 
-![Bar charts of shipments by carrier and average transit processing time by plant](images/02_carrier_plant_drivers.png)
+![Bar charts of shipments by carrier and average transit processing time by plant](https://github.com/P4DS4D2/Supply-Chain-Logistics-Lead-Time-Bottleneck-Analysis/blob/main/02_carrier_plant_drivers.png)
 *V444_1 handles 390 shipments (8%) against 3,694 (75%) for V444_0. PLANT16 averages 0.78 days of transit processing, against 2.00 at four other plants.*
 
-![Tukey HSD confidence intervals for mean transit processing time by plant](images/03_tukey_hsd_plants.png)
+![Tukey HSD confidence intervals for mean transit processing time by plant](https://github.com/P4DS4D2/Supply-Chain-Logistics-Lead-Time-Bottleneck-Analysis/blob/main/03_tukey_hsd_plants.png)
 *Tukey HSD intervals for mean TPT by plant: PLANT16 sits clearly below PLANT03, 09 and 12. The very wide PLANT04 and PLANT08 intervals suggest few records.*
 
-![Bar charts comparing Random Forest and Linear Regression on RMSE and R-squared](images/04_model_comparison.png)
+![Bar charts comparing Random Forest and Linear Regression on RMSE and R-squared](https://github.com/P4DS4D2/Supply-Chain-Logistics-Lead-Time-Bottleneck-Analysis/blob/main/04_model_comparison.png)
 *On the shared 80/20 test set, Random Forest scores RMSE 1.32 days and R2 0.29; Linear Regression scores 1.43 and 0.17.*
 
 > **Chart sources:** charts 1, 2 and 4 are redrawn from the summary values of the original project run (the same numbers as the tables in this README). Chart 3 is exported from the original notebook with its text annotation removed. After a verified run of the refined notebook, replace all four with its exports using the same file names. A Tableau dashboard screenshot can be added once published.
